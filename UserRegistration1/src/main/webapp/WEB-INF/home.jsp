@@ -22,7 +22,7 @@ body {font-family: Arial, Helvetica, sans-serif;}
 </head>
 <body>
 <h3>..Welcome..</h3>
-<a href="signup"><h4>Sign Up</h4></a><br>
+<a href="signup"><h4>Sign Up - Registration</h4></a><br>
 <a href="login"><h4>Login</h4></a>
 
 </body>
